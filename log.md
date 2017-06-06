@@ -12,3 +12,7 @@ Update 3 (1:44 am):
 
 Not using np.ravel() correctly
 
+Update 4 (2:04 am):
+
+I'm getting a sneaking suspicion that the sci kit learn implementation is just going to a different reduction algorithm once we hit a certain size, and that is really what's killing me. Probably should have read the documentation first, tbh.
+
