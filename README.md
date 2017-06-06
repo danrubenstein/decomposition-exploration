@@ -8,3 +8,6 @@ For the exploration, I use the PCA (Principal Component Analysis) implemention p
 
 A full write-up is hopefully coming on the blog shortly.
 
+#### Full warning
+
+None of the images really mean anything, especially the first two (they're mostly just there to show the evolution of the process). This repository is full of scratch work.
